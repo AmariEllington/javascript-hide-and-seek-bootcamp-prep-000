@@ -26,7 +26,4 @@ function getFirstSelector(selector){
         children[k].innerHTML= parseInt(children[k].innerHTML)+ n
       }
     }
-
-
-
  }
